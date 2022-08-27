@@ -1,0 +1,240 @@
+body {
+    margin: 0px;
+    /* font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif; */
+    font-family: 'Yeseva One', cursive;
+}
+
+.top-section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.top-section h1 {
+    color: #333333;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 80px;
+}
+
+.mission-2022 {
+    color: #FFAD5A;
+}
+
+.top-section p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-img {
+    width: 80%;
+}
+
+.link-button {
+    color: white;
+    font-size: 20px;
+    padding: 12px 40px;
+    text-decoration: none;
+    background: #FF5959;
+    border-radius: 5px;
+}
+
+.left p {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.left {
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.right {
+    margin-top: 40px;
+    margin-left: 400px;
+}
+
+.shadow {
+    background: #FF5959;
+    border-radius: 5px;
+    width: 4px;
+    height: 224px;
+    left: 156px;
+    top: 157px;
+}
+
+.my-mission {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.mission-section h1 {
+    text-align: center;
+    color: #333333;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 80px;
+}
+
+.my-mission h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.my-mission p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #424242;
+}
+
+.mission-blue {
+    width: 400px;
+    height: 400px;
+    left: 156px;
+    top: 723px;
+    margin-left: 300px;
+    margin-top: 60px;
+    padding-left: 20px;
+    padding-top: 25px;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+}
+
+.mission-pink {
+    width: 400px;
+    height: 400px;
+    left: 540px;
+    top: 723px;
+    margin-left: 40px;
+    margin-top: 60px;
+    padding-top: 25px;
+    padding-left: 20px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+}
+
+.mission-yellow {
+    width: 400px;
+    height: 400px;
+    left: 924px;
+    top: 723px;
+    margin-left: 40px;
+    margin-top: 60px;
+    padding-left: 20px;
+    padding-top: 25px;
+    background: #FFF4D6;
+    border-radius: 26px;
+}
+
+.my-mission img {
+    width: 141px;
+    height: 141px;
+}
+
+
+
+.documentation-section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.dev-with h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    margin-left: 100px;
+}
+
+.dev-with p {
+    width: 650px;
+    font-family: 'Poppins';
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.dev-with .link-button {
+    margin-left: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 20px;
+}
+
+.doc-img img {
+    width: 400px;
+    height: 400px;
+    left: 158px;
+    top: 1185px;
+    margin-left: 300px;
+}
+
+.know-your {
+    margin-left: 200px;
+}
+
+.project-img img {
+    margin-right: 200px;
+}
+
+.corona-section {
+    display: flex;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+
+.corona-img img {
+    width: 339px;
+    height: 571px;
+    left: 327px;
+    top: 2389px;
+}
+
+.corona {
+    margin-left: 100px;
+}
+
+.corona h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 131%;
+}
+
+.build {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 74px;
+    text-align: center;
+}
+
+.footer-section {
+    font-weight: 400;
+    font-size: 26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 177px;
+    color: #ffffff;
+    background: #0B0D17;
+    text-align: center;
+    font-family: 'Lobster';
+}
+
+.footer-section p {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.color {
+    color: #FF5959;
+}
